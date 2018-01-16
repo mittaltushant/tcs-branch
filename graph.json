@@ -1,0 +1,73 @@
+
+{
+ "name": "Theoretical Computer Science",
+ "children": [
+    {
+     "name": "Toolkit",
+     "size": 10000,
+	 "children": [
+      {"name": "Discrete Math", "size": 8500},
+      {"name": "Abstract Algebra", "size": 8500},
+      {"name": "Optimization", "size": 8500},
+      {"name": "Linear Algebra", "size": 8500},
+      {"name": "Semi-definite/Linear Programming", "size": 8500}
+     ]
+    },
+    {
+     "name": "Algorithms",
+     "children": [
+      {"name": "Randomized", "size": 8500}
+     ]
+    },{
+     "name": "Formal Methods",
+     "children": [
+      {"name": "Randcomized", "size": 8500}
+     ]
+    },{
+     "name": "Complexity",
+     "children": [
+      {"name": "Algebraic", "size": 8500}
+     ]
+    },{
+     "name": "Cryptography",
+     "children": [
+      {"name": "Blockchain", "size": 8500}
+     ]
+    },{
+     "name": "Pseudorandomness",
+     "children": [
+      {"name": "Pseudorandom Generators", "size": 15000},
+	  {"name": "Randomness Extractors", "size": 15000},
+	  {"name": "Expander Graphs", "size": 7500},
+	  {"name": "Error Correcting Codes", "size": 7500}	
+     ]
+    },{
+     "name": "Learning Theory",
+     "children": [
+      {"name": "Type Theory", "size": 8500}
+     ]
+    },{
+     "name": "Quantum Computing",
+     "children": [
+      {"name": "Quantum Complexity", "size": 8500}
+     ]
+    },{
+     "name": "Computational Math",
+     "children": [
+      {"name": "Computational Number Theory and Algebra", "size": 8500},
+	  {"name": "Computational Geometry", "size": 8500}
+     ]
+    }, {
+     "name": "Coding Theory",
+     "children": [
+      {"name": "Algebraic Coding Theory", "size": 8500},
+	  {"name": "Computational Geometry", "size": 8500}
+     ]
+    }, {
+     "name": "Algorithmic Game Theory",
+     "children": [
+     {"name": "Computational Geometry", "size": 8500}
+     ]
+    }
+   ] 
+}
